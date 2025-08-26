@@ -3,4 +3,15 @@ name = "calc_near_x"
 version = "0.1.0"
 edition = "2021"
 
+description = "Simple lib for learn proposal"
+authors = ["Roberto Pimentel <roberto.blockchainresources@gmail.com>"]
+repositiory = "https://github.com/beto-rocha-blockchain/rust_nearx"
+readme = "README.md"
+license = "MIT"
+keywords = [
+    "learn"
+]
+
+# See more keys and their definitions aty https://doc.rust-lang.org/cargo/
+
 [dependencies]
