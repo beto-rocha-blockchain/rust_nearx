@@ -25,8 +25,8 @@ pub mod calc_with_1 {
     /// use calc_near_x;
     /// 
     /// assert_eq!(40, calc_near_x::sub_less_one(41, 0));
-    /// assert_eq!(0, calc_near_x::sum_plus_one(6, 6));
-    /// assert_eq!(0, calc_near_x::sum_plus_one(5, 50));
+    /// assert_eq!(0, calc_near_x::sub_less_one(6, 6));
+    /// assert_eq!(0, calc_near_x::sub_less_one(5, 50));
     /// ```
     pub fn sub_less_one(x: u8, y: u8) -> u8 {
         if x <= y {

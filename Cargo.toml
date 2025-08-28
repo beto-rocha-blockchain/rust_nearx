@@ -6,7 +6,7 @@ edition = "2021"
 
 description = "Simple lib for learn proposal"
 authors = ["Roberto Pimentel <roberto.blockchainresources@gmail.com>"]
-repositiory = "https://github.com/beto-rocha-blockchain/rust_nearx"
+repository = "https://github.com/beto-rocha-blockchain/rust_nearx"
 readme = "README.md"
 license = "MIT"
 keywords = [
